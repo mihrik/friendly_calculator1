@@ -12,3 +12,4 @@ Makefile
 
 # VS Code settings
 .vscode/
+build/
