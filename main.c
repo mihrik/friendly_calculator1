@@ -14,7 +14,7 @@ int main(void) {
     double fir, sec;
     printf("This program executes addition, subtraction, division\n"
            "and multiplication of two numbers. You should enter two numbers and choose one\n"
-           "of four operation(q for quit.\n");
+           "of four operation(q for quit).\n");
     printf("Choose desirable option:\n");
     printf("a. addition          s. subtraction\n");
     printf("m. multiplication    d. division\n");
