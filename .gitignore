@@ -1,0 +1,14 @@
+# Executables
+main
+
+# Build directories
+build/
+
+# CMake 
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# VS Code settings
+.vscode/
